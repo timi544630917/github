@@ -1,6 +1,7 @@
 <?php
 echo 'ÇëµÈ´ý';
 echo '²âÊÔÒ»ÏÂ';
+echo 'you are a shabi ';
 sleep(5);
 		require_once('e/class/q_flash_key.class.php');
 		
