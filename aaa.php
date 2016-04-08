@@ -1,5 +1,6 @@
 <?php
 echo 'ÇëµÈ´ý';
+echo '²âÊÔÒ»ÏÂ';
 sleep(5);
 		require_once('e/class/q_flash_key.class.php');
 		
